@@ -1,0 +1,1 @@
+This is a library with tools for me. I made it public only for the sake of other repositories which use this one, so you understand where that "Utilities" namespace comes from.
