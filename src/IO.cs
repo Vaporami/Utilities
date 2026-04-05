@@ -7,4 +7,6 @@ public sealed class IO
         Console.Write(message);
         return Console.ReadLine();
     }
+
+    static public readonly Action<string> Output = Console.WriteLine;
 }
